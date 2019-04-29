@@ -1,0 +1,15 @@
+{
+  "name": "server-express",
+  "version": "1.0.0",
+  "description": "tuto pour faire un projet avec node-express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Philippe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
